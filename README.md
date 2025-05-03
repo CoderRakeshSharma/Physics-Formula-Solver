@@ -101,4 +101,4 @@ Designed to encourage hands-on learning of both programming and science. Built w
 
 ### 🧲 Download the Code
 
-[![Download](https://img.shields.io/badge/Download-Python%20Code-brightgreen?style=for-the-badge&logo=python)]()
+[![Download](https://img.shields.io/badge/Download-Python%20Code-brightgreen?style=for-the-badge&logo=python)](https://github.com/CoderRakeshSharma/Physics-Formula-Solver/blob/main/Physics_Formula_Solver.py)
